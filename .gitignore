@@ -1,0 +1,19 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Windows/
+.vs/
+
+# Large project videos and files - not stored in Git
+Content/ErasTourStage/crowd lights.mp4
+Content/Movies/CrowdCheering.mp4
+Content/Movies/eras tour visuals lover era.mp4
+Content/Movies/lover era visuals - Copy.mp4
+Content/Movies/lover era visuals.mp4
+Content/EuropeanBeech
+Content/NiagaraExamples/EffectTypes
+Content/NiagaraExamples/FX_Explosions
+Content/NiagaraExamples/FX_Footstep
+Content/NiagaraExamples/FX_Markers
